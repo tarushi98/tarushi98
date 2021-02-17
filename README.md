@@ -4,13 +4,14 @@
 
 ## Tarushi Pathak
 
-![Tarushi Pathak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarushi98&show_icons=true&theme=tokyonight)
-
 <p> I am a 3rd year CSE student at SRM Institute of Science and Technology. You will usually find me here at 2 in the morning. I mostly work with Machine Learning and Deep Learning as I find them to be the most interesting thing in the world.Check out my repositories and if you find something interesting , then leave a comment , a pr or something.</p>
 <br/>
-<p> Like something and wanna collaborate ? Ping me <a href="https://www.linkedin.com/in/tarushi-pathak-6b7b5b177/">here</a>. ;)
 
 
+
+![Tarushi Pathak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarushi98&show_icons=true&theme=tokyonight)
+
+Like something and wanna collaborate ? Ping me [here](https://www.linkedin.com/in/tarushi-pathak-6b7b5b177/)! ;)
 
 <!--
 **tarushi98/tarushi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
