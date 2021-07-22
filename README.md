@@ -4,7 +4,7 @@
 
 ## Tarushi Pathak
 
-<p> I am a 3rd year CSE student at SRM Institute of Science and Technology. You will usually find me here at 2 in the morning. I work with Machine Learning and Deep Learning as I find them to be the most interesting thing in the world.Check out my repositories and if you find something interesting , then leave a comment , a pr or something.</p>
+<p> I am a 4th year CSE student at SRM Institute of Science and Technology. You will usually find me here at 2 in the morning. I work with Machine Learning and Deep Learning as I find them to be the most interesting thing in the world.Check out my repositories and if you find something interesting , then leave a comment , a pr or something.</p>
 <br/>
 
 
