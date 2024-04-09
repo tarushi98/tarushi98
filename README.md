@@ -8,9 +8,6 @@
 <br/>
 
 
-
-![Tarushi Pathak's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarushi98&show_icons=true&theme=tokyonight)
-
 Like something and wanna collaborate ? Ping me [here](https://www.linkedin.com/in/tarushi-pathak-6b7b5b177/)! ;)
 
 <!--
